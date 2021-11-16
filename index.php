@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-            echo 'Bonjour de Tan';
+            echo 'Ceci est une erreur de Mechmeche qui a remplacé une ligne';
         ?>
     </body>
 </html>
