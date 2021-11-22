@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
             echo 'Bonjour de Tan';
-            echo 'Seconde ligne de programme pour utilisateur Tan';
+            echo 'Petite modif pour voir un diff';
         ?>
     </body>
 </html>
